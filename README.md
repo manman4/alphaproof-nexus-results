@@ -20,6 +20,14 @@ structure is as follows:
     └── OEIS/ -- Proofs for subset of OEIS problems
 ```
 
+This repository contains only problems where successful proofs were discovered by AlphaProof Nexus.
+The complete set of Lean problems originating from OEIS that we attempted with Alphaproof Nexus
+(including ones which were not solved) is
+[here](https://github.com/google-deepmind/formal-conjectures/tree/auto_oeis/FormalConjectures/OEIS/Auto) and
+[this](https://github.com/google-deepmind/formal-conjectures/blob/auto_oeis/FormalConjectures/OEIS/Auto/THEOREM_MAPPING.txt)
+explains the mapping from Lean theorem names to OEIS problem.
+
+
 ## Building
 
 Ensure you have Lean 4 installed (see [installation instructions](https://lean-lang.org/lean4/doc/quickstart.html)).
