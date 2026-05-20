@@ -25,7 +25,8 @@ The complete set of Lean problems originating from OEIS that we attempted with A
 (including ones which were not solved) is
 [here](https://github.com/google-deepmind/formal-conjectures/tree/auto_oeis/FormalConjectures/OEIS/Auto) and
 [this](https://github.com/google-deepmind/formal-conjectures/blob/auto_oeis/FormalConjectures/OEIS/Auto/THEOREM_MAPPING.txt)
-explains the mapping from Lean theorem names to OEIS problem.
+explains the mapping from Lean theorem names to OEIS problem. The complete list of Erdos probems we attempted
+is described in `erdos_problems_attempted.txt`
 
 
 ## Building
