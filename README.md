@@ -13,7 +13,8 @@ structure is as follows:
 │   │   ├── Optimization/ -- Optimization Theory
 │   │   └── QuantumOptics/ -- Quantum Optics
 │   ├── ErdosProblems/ -- For `Erdős Problems` paragraph of `Systematic Evaluation on Open Problems`
-│   └── OEIS/ -- For `OEIS Problems` paragraph of `Systematic Evaluation on Open Problems`
+│   ├── OEIS/ -- For `OEIS Problems` paragraph of `Systematic Evaluation on Open Problems`
+│   └── StacksProject/ -- Problems from the Stacks Project
 └── NaturalLanguageProofs/ -- Human-written prose proofs following the structure of the Lean proofs discovered by AlphaProof Nexus
     ├── AICollaborator/ -- Proofs for subset of problems from AlphaProof Nexus <-> human collaborations
     ├── ErdosProblems/ -- For Erdős problems
